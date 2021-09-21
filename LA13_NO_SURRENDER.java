@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class LA13_NO_SURRENDER {
 	public static void main(String[] args) {
 		// comment here
+		// another comment here
 		Scanner scan = new Scanner(System.in);
 		System.out.println("How many student you want to enter? ");
 		int num = scan.nextInt();
